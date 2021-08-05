@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "370383674258",
+    "project_id": "smartdineinn",
+    "storage_bucket": "smartdineinn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370383674258:android:2d62e6babf33983c333f4b",
+        "android_client_info": {
+          "package_name": "com.example.fyp_v1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370383674258-kju0ldojq490aco4jjso6s0rfluk9qh2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fyp_v1",
+            "certificate_hash": "b32106a9dc8d8ec131ed622ee3a6b4b34f3005d2"
+          }
+        },
+        {
+          "client_id": "370383674258-sm468uivkivas655sj9qd71ci8etb01j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVPNgD1xHd6P54tqGVDDGgtFlF2lzqnWU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370383674258-sm468uivkivas655sj9qd71ci8etb01j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
